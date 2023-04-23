@@ -1,0 +1,6 @@
+version: '3.4'
+
+services:
+  retailpricing.handlers:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
